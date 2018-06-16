@@ -40,7 +40,6 @@ if __name__ == '__main__':
 
     nMappers = 4
 
-    txt = requests.get("http://127.0.0.1:8000/file1.txt").text
     txt2 = re.sub('[^ a-zA-Z0-9]', ' ', txt)
     textList = splitText(txt2)
 
