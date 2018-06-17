@@ -16,10 +16,9 @@ Nil Bardou.
 - pas 3: Enjeguem el server.py (Comanda: python server.py)
 - pas 4: Enjeguem el registry.py (Comanda: python registry.py)
 - pas 5: Enjeguem el reducer.py (Comanda: python reducer.py)
-- pas 6: Enjeguem el word.py (Comanda: python word.py)
-- pas 7: Enjeguem els 4 host.py (Comanda: python hostX.py)
-- pas 8: En el terminal on tenim obertel server.py decidim quina opció volem dur a terme (wordcount o countword) i quin arxiu volem tractar.
-- pas 9: Observem en el terminal de del word.py el resultat de l'opció escollida. 
+- pas 6: Enjeguem els 4 host.py (Comanda: python hostX.py)
+- pas 7: En el terminal on tenim obertel server.py decidim quina opció volem dur a terme (wordcount o countword) i quin arxiu volem tractar.
+- pas 8: Observem en el terminal de del word.py el resultat de l'opció escollida. 
 
 # IPLEMENTACIÓ
 - Hosts: primer creem el host, després agafem la referència del Registry per a poder executar la seva funció bind la qual li passarem un nom (mapperX) i el host, i ens quedem escoltant. 
