@@ -1,1 +1,1 @@
-# SD_PRAC1
+# Autors
